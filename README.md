@@ -5,7 +5,6 @@
 ## 🎖 Featured:
 
 * Use the NPM Package ``Twitch Kit``, to build your powerful Twitch Chat Bot
-* Check out my Simple Machine Learning Project for Number Recognition, built with Tensorflow
 * Install my Project ``URL Shorter`` and host your own URL Shortening Tool.
 
 ## 📫 Contact
@@ -16,7 +15,7 @@
 
 
 Please note the respective LICENSE files for each of the projects.
-(c) Copyright 2020 - robin.software. All rights reserved.
+(c) Copyright 2021 - robin.software. All rights reserved.
 
 
 <!--
