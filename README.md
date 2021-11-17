@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://twitch.tv/dieserobin">
-  <img alt="Twitch" height="22px" width="22px src="https://github.com/peterthehan/peterthehan/raw/main/assets/twitch.svg">
+  <img alt="Twitch" height="22px" width="22px" src="https://github.com/peterthehan/peterthehan/raw/main/assets/twitch.svg">
 </a>
 
 
