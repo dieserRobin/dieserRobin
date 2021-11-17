@@ -1,11 +1,20 @@
-# Hello 👋
+### Hello 👋
+
+<a href="https://twitter.com/dieserRBN">
+  <img align="left" alt="dieserRBN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://twitch.tv/dieserobin">
+  <img alt="Twitch" height="32" width="32" src="assets/twitch.svg">
+</a>
+
 
 ## I'm Robin, feel free to try out some of my projects. 
 
-## 🎖 Featured:
+## 🎖 Currently:
 
-* Use the NPM Package ``Twitch Kit``, to build your powerful Twitch Chat Bot
-* Install my Project ``URL Shorter`` and host your own URL Shortening Tool.
+* [streamertools](https://streamertools.app/) » Several Tools for Twitch streamers
+* In the development team of [Reved](https://reved.tv/)
 
 ## 📫 Contact
 
