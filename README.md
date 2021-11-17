@@ -15,6 +15,7 @@
 
 * [streamertools](https://streamertools.app/) » Several Tools for Twitch streamers
 * In the development team of [Reved](https://reved.tv/)
+* Often developing for [Papaplatte](https://twitch.tv/papaplatte)
 
 ### 📫 Contact
 
