@@ -4,10 +4,6 @@
   <img align="left" alt="dieserRBN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://twitch.tv/dieserobin">
-  <img alt="Twitch" height="22px" width="22px" src="https://github.com/peterthehan/peterthehan/raw/main/assets/twitch.svg">
-</a>
-
 
 #### I'm Robin, feel free to try out some of my projects. 
 
@@ -25,20 +21,4 @@
 
 
 Please note the respective LICENSE files for each of the projects.
-(c) Copyright 2021 - robin.software. All rights reserved.
-
-
-<!--
-**dieserRobin/dieserRobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(c) Copyright 2022 - robin.software. All rights reserved.
